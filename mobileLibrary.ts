@@ -22,7 +22,7 @@ class MobileLibrary {
         this.name = value;
     }
     
-    public geLocation(): string {
+    public getLocation(): string {
         return this.location;
     }
     public setLocation(value: string) {
