@@ -15,7 +15,7 @@ let miLibrary = new MobileLibrary("Mis Moviles", "En mi casa", todos);
 
 
 console.log(miLibrary.getName());
-console.log(miLibrary.geLocation());
+console.log(miLibrary.getLocation());
 console.log(miLibrary.getMobiles());
 console.log(miLibrary.getTotalPrice());
 console.log('------------------------------');
